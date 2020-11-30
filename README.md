@@ -1,6 +1,6 @@
 # Cycle-Generation-Networks
 
-The environment requirements can be view in requirements.txt
+The environment requirements can be viewed in requirements.txt
 
 Required data structure:
 >user_id, item_id, rating, partition_id
